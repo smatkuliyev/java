@@ -40,5 +40,4 @@ public class C06_Arrays {
 		System.out.println(Arrays.toString(tersArray));
 		
 	}
-
 }
