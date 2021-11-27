@@ -20,7 +20,7 @@ public class CarRunner {
 		// olusturmak istersem o zaman parametreli constructor olusturmak gerekir
 		
 		// Car car2 = new Car("Kirmizi", "Corolla");
-		// Car class'inda iki String parametresi olan bir constructor olmadigi icin bu obje....?
+		// Car class'inda iki String parametresi olan bir constructor olmadigi icin bu obje olusturmayi simdilik yapamayiz
 		
 	}
 
