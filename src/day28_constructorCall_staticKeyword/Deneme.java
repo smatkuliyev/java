@@ -8,6 +8,7 @@ public class Deneme {
         count++;
     }
 
+	@SuppressWarnings("static-access")
 	public static void main(String[] args) {
 		 Deneme obje1=new Deneme();
 	        
