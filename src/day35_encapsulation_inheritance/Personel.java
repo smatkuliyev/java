@@ -8,7 +8,9 @@ public class Personel {
 	protected String telNo;
 	protected int yas;
 	
-	
+	Personel() {
+		System.out.println("Personel parametresiz constructor calisti");
+	}
 	
 
 	public static void main(String[] args) {
