@@ -17,7 +17,7 @@ public class C06_StringBuilder {
 		
 		String sbBuyukHarf = sb.toString().toUpperCase();
 		
-		System.out.println(sb);
+		System.out.println(sbBuyukHarf);
 		
 	}
 

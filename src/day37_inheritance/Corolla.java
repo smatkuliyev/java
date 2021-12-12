@@ -11,7 +11,7 @@ public class Corolla extends Toyota {
 	public static void main(String[] args) {
 		
 					Corolla 			arb1			  =   			new 		Corolla();
-		// Class ismi && Data type		obje ismi		atama		  Kerword 		Constructor		
+		// Class ismi && Data type		obje ismi		atama		  Keyword 		Constructor		
 		
 		
 		// Java'da obje olusturdugumuz her class ismi ayni zamanda bir data turu'dur
@@ -29,7 +29,7 @@ public class Corolla extends Toyota {
 			
 		
 		Araba arb3 = new Corolla();
-		System.out.println(arb3.calisiyorMu);
+		System.out.println(arb3.calisiyorMu); 	// true
 		
 		// ***	obje olustururken constructor'u takip et 	***
 		// *** 	class uyesi bulmak icin data type'ine bak 	***

@@ -18,8 +18,8 @@ public class Deneme {
 	        
 	        obje2.increment();
 	        
-	        System.out.println("Obje1= count is="+obje1.count);		// 2
-	        System.out.println("Obje2= count is="+obje2.count);		// 2
+	        System.out.println("Obje1 = count is="+obje1.count);		// 2
+	        System.out.println("Obje2 = count is="+obje2.count);		// 2
 
 	}
 

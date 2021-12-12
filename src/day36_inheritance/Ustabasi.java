@@ -10,6 +10,7 @@ public class Ustabasi extends Isci{
 	
 	
 
+	@SuppressWarnings("unused")
 	public static void main(String[] args) {
 		
 		Ustabasi ust1 = new Ustabasi();

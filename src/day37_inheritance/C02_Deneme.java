@@ -15,7 +15,7 @@ public class C02_Deneme extends C01_Class2 {
         System.out.println(this.num2);
         System.out.println(super.num2);
         System.out.println(this.num3);
-        //System.out.println(super.num2);
+        //System.out.println(super.num3);
         
         super.name1="Hatice Sen";
         System.out.println(this.name1);

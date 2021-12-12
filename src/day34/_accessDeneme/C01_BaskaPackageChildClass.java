@@ -1,4 +1,4 @@
-package day34_accessDeneme;
+package day34._accessDeneme;
 
 import day34_accessModifier_encapsulation.C01;
 
