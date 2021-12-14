@@ -1,9 +1,10 @@
-package day40;
+package day40_exceptions;
 
 import java.util.Scanner;
 
 public class C08_IllegalargumentException {
 
+	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		// Soru: Kullanicidan yasini girmesini isteyin. Kodunuzu kullanici sifirdan kucuk bir sayi girerse Exception verecek sekilde yazin.
 		
@@ -23,7 +24,7 @@ public class C08_IllegalargumentException {
 			System.out.println(e);
 			System.out.println("Yas sifirdan kucuk olamaz");
 		}
-		
+		scan.close();
 	}
 
 }

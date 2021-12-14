@@ -1,4 +1,4 @@
-package day40;
+package day40_exceptions;
 
 public class C07_CastException {
 

@@ -1,10 +1,10 @@
-package day40;
+package day40_exceptions;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
-public class C05_ParentChildException {
+public class C06_ParentChildException {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
@@ -27,6 +27,9 @@ public class C05_ParentChildException {
 		System.out.println("Gorev tamamlandi");
 		
 		
+	
+	
+
 	}
 
 }
