@@ -6,6 +6,7 @@ import java.util.ListIterator;
 
 public class C05_ListIterator {
 
+	@SuppressWarnings({ "unchecked", "rawtypes" })
 	public static void main(String[] args) {
 		
 		List<String> liste = new ArrayList<>();
