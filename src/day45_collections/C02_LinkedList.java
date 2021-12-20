@@ -28,9 +28,6 @@ public class C02_LinkedList {
 		ll3.add(5);
 		ll3.add(7);
 		
-		
-		
-		
 	}
 
 }
