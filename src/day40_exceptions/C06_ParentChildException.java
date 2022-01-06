@@ -26,9 +26,6 @@ public class C06_ParentChildException {
 		System.out.println();
 		System.out.println("Gorev tamamlandi");
 		
-		
-	
-	
 
 	}
 

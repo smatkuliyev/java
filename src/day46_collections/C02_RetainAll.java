@@ -24,8 +24,8 @@ public class C02_RetainAll {
 		System.out.println(lhs2); 					// [Ali, Mehmet Ali, Filiz]
 	*/	
 		System.out.println(lhs2.retainAll(lhs1)); 	// true
-		System.out.println(lhs1); 					// [Ali, Mehmet Ali]
-		System.out.println(lhs2); 					// [Ali, Mehmet Ali, Filiz]
+		System.out.println(lhs1); 					// [Ali, Mehmet Ali, Hasan, Kutlu]
+		System.out.println(lhs2); 					// [Ali, Mehmet Ali]
 		
 		
 	}

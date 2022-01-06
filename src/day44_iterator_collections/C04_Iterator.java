@@ -27,6 +27,7 @@ public class C04_Iterator {
 		while (ite1.hasNext()) {
 			ite1.next();
 			ite1.remove();
+		
 			
 		}
 		

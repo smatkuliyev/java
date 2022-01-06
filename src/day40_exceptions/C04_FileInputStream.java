@@ -9,7 +9,7 @@ public class C04_FileInputStream {
 	public static void main(String[] args) throws FileNotFoundException {
 		// Java'da bir dosyaya ulasmak FileInputStream class'indan yardim aliriz
 		
-		FileInputStream fis = new FileInputStream("src\\day40\\yazi.txt");
+		FileInputStream fis = new FileInputStream("src\\day40_exceptions\\yazi.txt");
 		
 		// Java bu kodda olasi bir problem on goruyor
 		// ve bu problema karsi ne yapmasi gerektigini soruyor
